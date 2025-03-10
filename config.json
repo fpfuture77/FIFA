@@ -1,0 +1,10 @@
+{
+    "dataset_path": "C:\\Users\\Vinayak\\OneDrive\\Desktop\\FIFA_Model_Project\\FIFA-2019.csv",
+    "positions": {
+        "Goalkeeper": ["GK_Diving", "GK_Handling", "GK_Kicking", "GK_Positioning", "GK_Reflexes"],
+        "Defender": ["Interceptions", "HeadingAccuracy", "Marking", "StandingTackle", "SlidingTackle"],
+        "Midfielder": ["Vision", "ShortPassing", "LongPassing", "BallControl", "Dribbling"],
+        "Forward": ["Finishing", "Positioning", "ShotPower", "Volleys", "Dribbling"]
+    },
+    "target_column": "Position"
+}
